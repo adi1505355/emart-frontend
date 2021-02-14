@@ -1,3 +1,8 @@
+Frontend codebase for the ecommerce-webapp
+
+Link for the backend codebase : https://github.com/adi1505355/emart-backend
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
